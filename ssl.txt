@@ -1,0 +1,142 @@
+ame
+
+Instance ID
+
+Instance Type
+
+
+Availability Zone
+
+Instance State
+
+Status Checks
+
+Alarm Status
+
+Public DNS (IPv4)
+
+IPv4 Public IP
+
+IPv6 IPs
+
+Key Name
+
+Monitoring
+
+Launch Time
+
+Security Groups
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ans
+i-04052a5011f30b27d
+t2.micro
+us-east-1a
+ stopped
+
+
+None 
+
+-
+-
+ssk
+disabled
+July 12, 2018 at 9:37:11 PM UTC+5:30
+launch-wizard-1
+
+Huawei
+i-050a2fa2eb62d80ac
+t2.micro
+us-east-1a
+ stopped
+
+
+None 
+
+-
+-
+Hua
+disabled
+July 26, 2018 at 2:24:42 PM UTC+5:30
+launch-wizard-2
+
+NS1
+i-0794e781c8f63d387
+t2.micro
+us-east-1a
+ stopped
+
+
+None 
+
+-
+-
+ssk
+disabled
+July 7, 2018 at 8:05:54 PM UTC+5:30
+launch-wizard-2-aakash
+
+master
+i-08cd9f91ce9f128d0
+t2.micro
+us-east-1a
+ stopped
+
+
+None 
+
+-
+-
+ssk
+disabled
+August 1, 2018 at 10:37:13 PM UTC+5:30
+launch-wizard-1
+
+Swarn1
+i-094996fca9c36a2f2
+t2.micro
+us-east-1a
+ stopped
+
+
+None 
+
+-
+-
+ssk
+disabled
+July 7, 2018 at 6:29:45 PM UTC+5:30
+launch-wizard-2-aakash
+
+GITHUB
+i-0ceeb8d
